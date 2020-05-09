@@ -10,11 +10,11 @@ Input phrase:
     
     'Peace in Mexico after Porfirio Diaz is removed from office.'
 
-Fake headline from 2010: '
+Fake headline from 1910: '
     
     'Peace in Mexico after Porfirio Diaz is removed from office.\nJAPAN WILL SEND FLEET Mexico is Elated Over Pre parations Made to Cele brate Independence.'
 
-Fake headline from 2010: 
+Fake headline from 1910: 
     
     'Peace in Mexico after Porfirio Diaz is removed from office. By - the Mexican News Agency \' River Review.\nSTATUS OF MEXICO IMPROV ENOUGH FOR NOW El Paso Residents Opt- In to Stay put and Watch the Movements in Mexico.'
 
@@ -22,7 +22,7 @@ Input phrase:
    
     'Porfirio Diaz stepped out of office'
 
-Fake headline from 2010: 
+Fake headline from 1910: 
  
     'Porfirio Diaz stepped out of office today, becoming President of Mexico for the fifth time'   
     
@@ -32,7 +32,7 @@ Input phrase:
 
     'Porfirio Diaz stepped out of office to avoid a war'
 
-Fake headline from 2010:
+Fake headline from 1910:
 
     'Porfirio Diaz stepped out of office to avoid a war, but American officials were fearful that an armed conflict was imminent'
 
