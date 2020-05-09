@@ -37,4 +37,4 @@ Fake headline from 2010:
     'Porfirio Diaz stepped out of office to avoid a war, but American officials were fearful that an armed conflict was imminent'
 
 
-We rely on the work of Max Woolf http://minimaxir.com/ and the data from the Library of Congress, Newspaper Navigator dataset: Extracted Visual Content from Chronicling America. https://news-navigator.labs.loc.gov
+We rely on the work of Max Woolf @minimaxir http://minimaxir.com/ and the data from the Library of Congress, Newspaper Navigator dataset: Extracted Visual Content from Chronicling America. https://news-navigator.labs.loc.gov
