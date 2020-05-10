@@ -7,7 +7,7 @@ https://colab.research.google.com/drive/1F0FZfoS_cbi1C-vaaln-DtHW5m554z2a?usp=sh
 
 We choose a year in which a world tragedy happened. We select headlines related to that tragedy and train an algorithm to learn to create fake headlines using the style and prhases of that year. The algorithm takes an user generated phrase negating the tragedy and completes it as if those tragedies didn't occur.
 
-During the Data Jam we focused on 1910, the beginning of Mexican independece after 31 years of Porfirio Diaz in power.
+During the Data Jam we focused on 1910, the beginning of Mexican Revolution after 31 years of Porfirio Diaz in power.
 
 
 Input phrase:  
