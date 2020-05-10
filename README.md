@@ -39,4 +39,16 @@ Fake headline from 1910:
     'Porfirio Diaz stepped out of office to avoid a war, but American officials were fearful that an armed conflict was imminent'
 
 
+Conclusion:
+
+-The data was obtained using ocr on news paper and so it was noisy by nature.
+
+-The algorithm was trained originaly on an incredible amount of unknown (for me) data. And fine tuned with the dataset we collected. so the algorithm
+has stored information of many years besides 1910.
+
+-Even if we give the sufix. the algorithm may complete the sentece in a way contrary to our intention:
+Input:'Porfirio Diaz stepped out of office' 
+Output:'Porfirio Diaz stepped out of office today and is now poised to be sworn in tomorrow.''
+
+
 We rely on the work of Max Woolf https://github.com/minimaxir and the data from the Library of Congress, Newspaper Navigator dataset: Extracted Visual Content from Chronicling America. https://news-navigator.labs.loc.gov
