@@ -14,10 +14,6 @@ Input phrase:
     
     'Peace in Mexico after Porfirio Diaz is removed from office.'
 
-Fake headline from 1910: '
-    
-    'Peace in Mexico after Porfirio Diaz is removed from office.\nJAPAN WILL SEND FLEET Mexico is Elated Over Pre parations Made to Cele brate Independence.'
-
 Fake headline from 1910: 
     
     'Peace in Mexico after Porfirio Diaz is removed from office. By - the Mexican News Agency \' River Review.\nSTATUS OF MEXICO IMPROV ENOUGH FOR NOW El Paso Residents Opt- In to Stay put and Watch the Movements in Mexico.'
@@ -40,6 +36,17 @@ Fake headline from 1910:
 
     'Porfirio Diaz stepped out of office to avoid a war, but American officials were fearful that an armed conflict was imminent'
 
+An a historical error:
+
+Input phrase:  
+    
+    'Peace in Mexico after Porfirio Diaz is removed from office.'
+
+Fake headline from 1910: '
+    
+    'Peace in Mexico after Porfirio Diaz is removed from office.\nJAPAN WILL SEND FLEET Mexico is Elated Over Pre parations Made to Cele brate Independence.'
+    
+The independece was in 1810-1821, while the revolution was from 1910-1920.
 
 Conclusion:
 
